@@ -1,3 +1,5 @@
+#Description: script that reproduces the demo from the video Apple Silicon Performance Explained: Bandwidth vs Compute (Hands-On)
+#Youtube: https://youtu.be/wV7bK8IhUn4
 using LinearAlgebra
 using BenchmarkTools
 using Metal
