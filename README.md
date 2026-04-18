@@ -1,6 +1,6 @@
-# Julia Performance Benchmarks
+# Apple Silicon Performance Benchmarks
 
-A collection of standalone Julia scripts for measuring key performance characteristics of modern systems, including **memory bandwidth**, **compute throughput**, and **cache behavior**.
+A collection of standalone scripts for measuring key performance characteristics of Apple M-series systems, including **memory bandwidth**, **compute throughput**, and **cache behavior**.
 
 Each script is self-contained, reproducible, and designed to be easy to run on your own machine.
 
