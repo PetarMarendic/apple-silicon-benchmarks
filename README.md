@@ -9,9 +9,7 @@ Each script is self-contained, reproducible, and designed to be easy to run on y
 ## Contents
 
 | Script | Description |
-
 |--------|------------|
-
 | `julia_roofline_benchmark.jl` | Builds an empirical roofline model (CPU & GPU bandwidth + compute) |
 
 ## Quick Start
