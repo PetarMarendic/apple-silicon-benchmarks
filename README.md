@@ -17,7 +17,7 @@ Each script is self-contained, reproducible, and designed to be easy to run on y
 Run any script directly with Julia:
 
 ```bash
-julia roofline.jl
+julia julia_roofline_benchmark.jl
 ```
 
 Each script prints results directly to the terminal.
